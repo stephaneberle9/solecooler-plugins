@@ -1,0 +1,11 @@
+# Store and check out text files as LF on every platform, overriding a local
+# core.autocrlf=true that would otherwise produce phantom EOL-only diffs.
+* text=auto eol=lf
+
+# Common binaries — never normalize.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
+*.ico binary

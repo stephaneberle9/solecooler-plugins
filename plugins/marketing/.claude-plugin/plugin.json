@@ -1,0 +1,12 @@
+{
+  "name": "marketing",
+  "version": "1.0.0",
+  "description": "Le contexte business et les règles de voix de Solecooler, combinés à plus de 20 skills marketing pour la création de contenu, la recherche, la stratégie et l'édition.",
+  "author": {
+    "name": "Solecooler"
+  },
+  "homepage": "https://solecooler.com",
+  "repository": "https://github.com/solecooler/solecooler-plugins",
+  "license": "UNLICENSED",
+  "keywords": ["skills", "marketing", "solecooler", "positioning"]
+}

@@ -1,0 +1,9 @@
+*.zip
+
+# Claude Code
+.claude/settings.local.json
+.claude/plans/
+
+# Tutorial files
+*-Workshop.md
+design.md

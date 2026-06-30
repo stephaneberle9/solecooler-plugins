@@ -1,0 +1,19 @@
+{
+  "name": "solecooler-plugins",
+  "owner": {
+    "name": "Solecooler",
+    "email": "contact@solecooler.com"
+  },
+  "metadata": {
+    "description": "Plugins Claude pour les équipes de Solecooler",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "marketing",
+      "description": "Le contexte business et les règles de voix de Solecooler, combinés à plus de 20 skills marketing pour la création de contenu, la recherche, la stratégie et l'édition.",
+      "version": "1.0.0",
+      "source": "./plugins/marketing"
+    }
+  ]
+}
