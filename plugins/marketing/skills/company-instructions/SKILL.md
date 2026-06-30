@@ -113,6 +113,31 @@ Language selection: French for French-speaking audiences (France and the wider F
 
 ---
 
+## Solecooler Messaging Guidance
+
+Drawn from the June 2026 marketing audit. These rules sharpen the Voice DNA above for Solecooler's specific positioning problem: a unique product that buyers struggle to understand and that has so far over-promised.
+
+**Keep the promise tenable.** The words "heating" and "cooling" make buyers expect a battery-like effect — instant, strong, obviously perceptible. ClimFeet's effect is gentler and builds with movement. Promise **better thermal comfort over the day**, not an instant temperature change. An over-promise shows up later as disappointed reviews and missing testimonials. Reference reframe (FR):
+
+> « ClimFeet n'est pas une semelle électrique qui devient instantanément chaude ou froide. Son action se déclenche avec la marche et vise à améliorer progressivement le confort thermique au cours de la journée. »
+
+**Start from the need, not the technology.** Buyers search their problem ("j'ai froid aux pieds toute la journée"), not "semelle thermorégulante sans batterie." Lead with the lived situation; bring the tech in as the explanation, not the headline. Default message order:
+
+1. concrete situation
+2. the discomfort lived
+3. why current solutions fall short
+4. the benefit offered
+5. the technology explanation
+6. the proof
+
+**Don't talk to everyone at once.** A message aimed at every use case (B2B, sport, everyday comfort, Raynaud's) lands for no one. Pick one primary target per market and write to it. "Athletes" is too broad — a trail runner, a skier, and a cyclist don't share the same need. Screen a target against four questions: is the problem *intense*, *frequent*, *badly served* by current solutions, and *worth the price* to them?
+
+**Keep the three brands separate.** Don't mix Solecooler (company/tech), ClimFeet (on sale), and WarnFeet (in R&D) in the same breath, and give each audience its own call to action. Never present WarnFeet as if it's already buyable.
+
+**Match proof to the product.** Organize proof in four levels — technical (measurements, tests), usage (before/after in a real situation, over time), social (authentic testimonials), professional (in-company tests, experts, partners). For **ClimFeet**, lead with usage and social proof. For **WarnFeet**, lead with scientific, medical, and regulatory proof.
+
+---
+
 ## Key Instructions for Claude
 
 - Always write in the Voice DNA above. Apply the English rules for English output, the French rules for French output. Before delivering any content, check a paragraph against the writing rules — match or rewrite.
@@ -121,7 +146,7 @@ Language selection: French for French-speaking audiences (France and the wider F
 - Use the audience's own language: outdoor and trade workers want reliability and all-day warmth; athletes want performance, weight, and the cooling side; clinicians want clinical evidence and continuous monitoring; sustainability-minded buyers want recyclability, made-in-France, and zero CO2 in use.
 - Speak to each ICP's specific pain, fears, and dreams — not generic benefits.
 - Handle the obvious objections proactively in copy: does it really work with no battery? how durable is it? what does it cost? does the cooling side actually cool?
-- Lead with the one claim no competitor can match: it heats *and* cools, powered only by your footsteps, with no batteries and no chemicals.
+- Open from the buyer's problem, then present the one claim no competitor can match as the answer: it heats *and* cools, powered only by your footsteps, with no batteries and no chemicals. Frame the effect as progressive comfort over the day, not an instant temperature change (see Solecooler Messaging Guidance).
 - ClimFeet is not only for athletes — it serves cold-feet professionals, outdoor and refrigerated-warehouse workers, first responders, and anyone whose feet run too cold or too hot. Keep WarnFeet (medical, diabetic-foot prevention) clearly separated from the comfort range.
 - Bilingual awareness: default to the language of the prompt. For French-speaking audiences, French is often correct even if the human writes in English.
 - **Never fabricate testimonials, results numbers, customer quotes, or case studies.** If a specific isn't in the Proof section of `company-context`, mark it [PLACEHOLDER — needs real X].
